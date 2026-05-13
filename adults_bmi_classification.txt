@@ -1,0 +1,1 @@
+{"severe thinness": "< 16", "moderate thinness": "16 - 17", "mild thinness": "17 - 18.5", "normal": "18.5 - 25", "overweight": "25 - 30", "obese class I": "30 - 35", "obese class II": "35 - 40", "obese class III": "> 40"}

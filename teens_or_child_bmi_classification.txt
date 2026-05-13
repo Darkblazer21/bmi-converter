@@ -1,0 +1,1 @@
+{"underweight": "< 5%", "healthy weight": "5% - 85%", "at risk of overweight": "85% - 95%", "overweight": "> 95%"}
